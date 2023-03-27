@@ -10,7 +10,22 @@
 <div align="center">
   <h3>🛠 Tech Stack 🛠</h3>
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
+  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
   <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=flat-square&logo=Spring Boot&logoColor=white"/>
+  <img alt="Spring Security" src ="https://img.shields.io/badge/Spring Security-6DB33F.svg?&style=flat-square&logo=Spring Security&logoColor=white"/>
+  <img alt="Junit5" src ="https://img.shields.io/badge/Junit5-25A162.svg?&style=flat-square&logo=Junit5&logoColor=white"/>
+  <img alt="AWS EC2" src ="https://img.shields.io/badge/AWS EC2-FF9900.svg?&style=flat-square&logo=AWS EC2&logoColor=white"/>
+  <img alt="AWS S3" src ="https://img.shields.io/badge/AWS S3-569A31.svg?&style=flat-square&logo=AWS S3&logoColor=white"/>
+  <img alt="AWS RDS" src ="https://img.shields.io/badge/AWS RDS-527FFF.svg?&style=flat-square&logo=AWS RDS&logoColor=white"/>
+  
+  <img alt="Mysql" src ="https://img.shields.io/badge/Mysql-4479A1.svg?&style=flat-square&logo=Mysql&logoColor=white"/>
+  <img alt="Redis" src ="https://img.shields.io/badge/Redis-DC382D.svg?&style=flat-square&logo=Redis&logoColor=white"/>
+  <br>
+  <img alt="Github Actions" src ="https://img.shields.io/badge/Github Actions-2088FF.svg?&style=flat-square&logo=Github Actions&logoColor=white"/>
+  <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=Docker&logoColor=white"/>
+  <img alt="Nginx" src ="https://img.shields.io/badge/Nginx-009639.svg?&style=flat-square&logo=Nginx&logoColor=white"/>
+  
+  
   <br/>
   <br/>
   <br/>
