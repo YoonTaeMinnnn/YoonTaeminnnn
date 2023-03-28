@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&text=YoonTaeMin's%20Github&height=150&animation=fadeIn&fontAlignY=35&fontSize=40)
 <div align="center">
   
-[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonTaeminnnn)]()
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoonTaeminnnn&theme=default&layout=compact&exclude_repo=OPNE-CV,Python,Project,AWS_Serverless,Google_Image_Crawling,MFC-WINDOW-PROGRAMMING)](https://github-readme-stats-three-weld-55.vercel.app/"  height="180" />
+![YoonTaeminnnn's github stats](https://github-readme-stats.vercel.app/api?username=YoonTaeminnnn&show_icons=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isprogrammingfun) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoonTaeminnnn&layout=compact)
 
 </div>
 <div align="center">
