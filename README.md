@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YoonTaeminnnn&theme=default" height="180"/>
 </a>
 <a href="https://github.com/YoonTaeminnnn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoonTaeminnnn&theme=default&layout=compact&exclude_repo=OPNE-CV,Python,Project,AWS_Serverless,Google_Image_Crawling,MFC-WINDOW-PROGRAMMING)](https://github.com/anuraghazra/github-readme-stats"  height="180" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoonTaeminnnn&theme=default&layout=compact&exclude_repo=OPNE-CV,Python,Project,AWS_Serverless,Google_Image_Crawling,MFC-WINDOW-PROGRAMMING)](https://github-readme-stats-three-weld-55.vercel.app/"  height="180" />
 </a>
 </div>
 <div align="center">
