@@ -9,13 +9,20 @@
 <div align="center">
   <h3>🛠 Tech Stack 🛠</h3>
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
   <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
   <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=flat-square&logo=Spring Boot&logoColor=white"/>
-  <img alt="Spring Security" src ="https://img.shields.io/badge/Spring Security-6DB33F.svg?&style=flat-square&logo=Spring Security&logoColor=white"/>
+  <img alt="Spring Security" src ="https://img.shields.io/badge/Spring Security-6DB33F.svg?&style=flat-square&logo=Spring Security&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Jpa-20336B?style=flat-square&logo=jpa&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Data%20Jpa-20336B?style=flat-square&logo=jpa&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Querydsl-20336B?style=flat-square&logo=jpa&logoColor=white"/>
+  <br>
   <img alt="Junit5" src ="https://img.shields.io/badge/Junit5-25A162.svg?&style=flat-square&logo=Junit5&logoColor=white"/>
   <img alt="AWS EC2" src ="https://img.shields.io/badge/AWS EC2-FF9900.svg?&style=flat-square&logo=AWS EC2&logoColor=white"/>
   <img alt="AWS S3" src ="https://img.shields.io/badge/AWS S3-569A31.svg?&style=flat-square&logo=AWS S3&logoColor=white"/>
   <img alt="AWS RDS" src ="https://img.shields.io/badge/AWS RDS-527FFF.svg?&style=flat-square&logo=AWS RDS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20ElastiCache-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
   
   <img alt="Mysql" src ="https://img.shields.io/badge/Mysql-4479A1.svg?&style=flat-square&logo=Mysql&logoColor=white"/>
   <img alt="Redis" src ="https://img.shields.io/badge/Redis-DC382D.svg?&style=flat-square&logo=Redis&logoColor=white"/>
@@ -34,6 +41,7 @@
   <img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white"/>
   <img alt="Postman" src ="https://img.shields.io/badge/PostMan-FF6C37.svg?&style=flat-square&logo=Postman&logoColor=white"/>
   <img alt="Swagger" src ="https://img.shields.io/badge/Swagger-85EA2D.svg?&style=flat-square&logo=Swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rest%20Docs-8CA1AF?style=flat-square&logo=restdocs&logoColor=white"/>
   <img alt="Jira" src ="https://img.shields.io/badge/Jira-0052CC.svg?&style=flat-square&logo=Jira&logoColor=white"/>
 </div>
 <hr/>
