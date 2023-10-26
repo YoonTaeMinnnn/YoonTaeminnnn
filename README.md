@@ -11,7 +11,9 @@
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+  <img alt="TYPESCRIPT" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=TypeScript&logoColor=white"/>
   <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=flat-square&logo=Spring Boot&logoColor=white"/>
+  <img alt="Nest.js" src ="https://img.shields.io/badge/NestJS-E0234E.svg?&style=flat-square&logo=NestJS&logoColor=white"/>
   <img alt="Spring Security" src ="https://img.shields.io/badge/Spring Security-6DB33F.svg?&style=flat-square&logo=Spring Security&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Jpa-20336B?style=flat-square&logo=jpa&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Data%20Jpa-20336B?style=flat-square&logo=jpa&logoColor=white"/>
